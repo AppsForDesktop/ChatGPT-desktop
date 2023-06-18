@@ -21,7 +21,9 @@ What are you waiting for? Hit Download and open up ChatGPT App on your Windows p
 
 ## Installation
 
-You can install ChatGPT desktop on Windows by running the installer of latest [release](https://github.com/AppsForDesktop/ChatGPT-desktop/releases/download/1.0.0/ChatGPT.desktop.install.exe).
+To get ChatGPT desktop for Windows, you can [Download ChatGPT desktop installer](https://github.com/AppsForDesktop/ChatGPT-desktop/releases/download/1.0.0/ChatGpt.desktop.install.exe).
+
+Or you can check the [releases](https://github.com/AppsForDesktop/ChatGPT-desktop/releases) page.
 
 ## Usage
 
